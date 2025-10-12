@@ -1,0 +1,22 @@
+{
+  "name": "live-debates-app",
+  "version": "1.0.0",
+  "description": "Web app for live debates with real-time voting using Node.js and Socket.io.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "socketio",
+    "real-time"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
